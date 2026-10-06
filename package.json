@@ -1,0 +1,28 @@
+{
+  "name": "goaliva",
+  "version": "0.1.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "test": "node templateRelevance.test.cjs && node drillScoring.test.cjs && node skillTrends.test.cjs && node appThemes.test.cjs && node sessionLength.test.cjs && node trainingUX.test.cjs && node screenInteractions.test.cjs"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.25",
+    "expo-dev-client": "~57.0.19",
+    "expo-status-bar": "~57.0.0",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-safe-area-context": "~5.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "react-test-renderer": "19.2.3",
+    "typescript": "~6.0.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Goaliva",
+    "slug": "goaliva",
+    "version": "1.0.0",
+    "icon": "./store-assets/goaliva-icon-option-3-premium.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.goaliva.app" },
+    "android": { "package": "com.goaliva.app" }
+  }
+}

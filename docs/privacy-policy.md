@@ -2,7 +2,7 @@
 
 Last updated: October 1, 2026
 
-Goaliva is a soccer training tracker that stores your profile name, position, custom skills, training recipes, practice attempts, successes, session notes, themes, and progress history locally on your device. Goaliva does not require an account and does not upload this information to a Goaliva server.
+Goaliva is a soccer training tracker that stores your optional profile name, position, age, club or team, custom skills, training templates and their position focus, practice attempts, successes, session notes, themes, and progress history locally on your device. You can skip any profile question. Your position is used on your device to recommend and order templates; age is optional profile information and is not used to rank templates. Goaliva does not require an account and does not upload this information to a Goaliva server.
 
 Goaliva does not sell, rent, or use personal information for advertising or behavioral tracking. The current version does not include advertising, third-party analytics, crash-reporting SDKs, account synchronization, or cloud backup operated by Goaliva.
 

@@ -1,0 +1,33 @@
+node_modules/
+.pnpm-store/
+.expo/
+dist/
+*.log
+
+# Private signing material and machine-local credentials
+keys/
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+.env
+.env.*
+!.env.example
+*service-account*.json
+*credentials*.json
+android/key.properties
+android/keystore.properties
+android/signing.properties
+
+# Generated native output and local IDE configuration
+*.apk
+*.aab
+*.apks
+*.idsig
+.kotlin/
+.idea/
+.DS_Store
+coverage/
